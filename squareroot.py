@@ -10,7 +10,7 @@ while y**2 != num:
     num1 = (squareroot**2)-2
     print()
     num2 = 2*squareroot
-    print("num 2 :",
+    print("num 2 :",)
     num3 = squareroot - (num1/num2)
     squareroot = num3
     y = num3
