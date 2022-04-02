@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=
 ### References and research Done 
 Script name is : secondstring.py
 
+Research on how to reverse a string 
+https://stackoverflow.com/questions/58886774/python-how-do-i-reverse-every-other-string-in-a-list
+https://www.w3schools.com/python/python_howto_reverse_string.asp
 
 ## Week 04 Task - Program on the Collatz Conjecture
 
