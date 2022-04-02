@@ -12,7 +12,9 @@ The stackoverflow link shows how to add the "squared" symbol or "m to the pwer o
 https://stackoverflow.com/questions/8651361/how-do-you-print-superscript-in-
 
 The youtube link is a tutorial on BMI formula or calculating the BMI.
-https://www.youtube.com/watch?v=PpuiO6WJxic
+https://www.youtube.com/watch?v=
+
+
 
 ## Week 03 Task - Program that Outputs Every Second Letter In Reverse Order
 
