@@ -13,27 +13,32 @@ https://www.tutorialspoint.com/How-to-round-down-to-2-decimals-a-float-using-Pyt
 ## Week 03 Task - Program that Outputs Every Second Letter In Reverse Order
 
 ### References and research Used 
-Script name is : secondstring.py
+Script name is : secondstring.
+
 
 ## Week 04 Task - Program on the Collatz Conjecture
 
 ### References and research Used 
-Script name is : collatz.py
+Script name is : collatz.
+
 
 ## Week 05 Task - Program that Outputs whether Today is a Weekday Or Not
 
 ### References and research Used 
-Script name is : weekday.py
+Script name is : weekday.
+
 
 ## Week 06 Task - Program That Approximates the Square Root
 
 ### References and research Used 
-Script name is : squareroot.py
+Script name is : squareroot.
+
 
 ## Week 07 Task - Program That Reads a Text File and Outputs Number of e's
 
 ### References and research Used 
-Script name is : es.py
+Script name is : es.
+
 
 ## Week 08 Task - Displays a Plot Of Functions
 
