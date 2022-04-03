@@ -35,7 +35,7 @@ Script name is : **collatz.py**
 ## Week 05 Task - Program that Outputs whether Today is a Weekday Or Not
 
 ### References and research Done 
-Script name is : weekday.py
+Script name is : **weekday.py**
 
 
 https://www.w3schools.com/python/python_datetime.asp
@@ -44,17 +44,17 @@ https://stackoverflow.com/questions/1907196/how-do-i-check-if-its-monday-to-frid
 ## Week 06 Task - Program That Approximates the Square Root
 
 ### References and research Done 
-Script name is : squareroot.py
+Script name is : **squareroot.py**
 
 
 ## Week 07 Task - Program That Reads a Text File and Outputs Number of e's
 
 ### References and research Done 
-Script name is : es.py
+Script name is : **es.py**
 
 
 ## Week 08 Task - Displays a Plot Of Functions
 
 ### References and research Done 
-Script name is : plottask.py
+Script name is : **plottask.py**
 
