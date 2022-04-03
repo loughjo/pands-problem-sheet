@@ -6,7 +6,7 @@
 Script name is bmi.py
  
 The following site describes how to use the round function in python
-https://www.tutorialspoint.com/How-to-round-down-to-2-decimals-a-float-using-Python
+![GitHub Light](https://www.tutorialspoint.com/How-to-round-down-to-2-decimals-a-float-using-Python)
 
 The stackoverflow link shows how to add the "squared" symbol or "m to the pwer of 2"
 https://stackoverflow.com/questions/8651361/how-do-you-print-superscript-in-
