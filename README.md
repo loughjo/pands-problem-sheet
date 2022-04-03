@@ -7,10 +7,10 @@ Script name is **bmi.py**
 
 Description of Program : A program that calculates somebody's Body Mass Index (BMI)
  
-The following site describes how to use the round function in python
+The following site describes how to use the round function in python.<br />
 https://www.tutorialspoint.com/How-to-round-down-to-2-decimals-a-float-using-Python
 
-The stackoverflow link shows how to add the "squared" symbol or "m to the pwer of 2"
+The stackoverflow link shows how to add the "squared" symbol or "m to the pwer of 2".<br />
 https://stackoverflow.com/questions/8651361/how-do-you-print-superscript-in-
 
 The youtube link is a tutorial on BMI formula or calculating the BMI.
