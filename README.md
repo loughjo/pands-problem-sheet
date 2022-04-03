@@ -13,7 +13,7 @@ https://www.tutorialspoint.com/How-to-round-down-to-2-decimals-a-float-using-Pyt
 The stackoverflow link shows how to add the "squared" symbol or "m to the pwer of 2".<br />
 https://stackoverflow.com/questions/8651361/how-do-you-print-superscript-in-
 
-The youtube link is a tutorial on BMI formula or calculating the BMI.
+The youtube link is a tutorial on BMI formula or calculating the BMI.<br />
 https://www.youtube.com/watch?v=
 
 
