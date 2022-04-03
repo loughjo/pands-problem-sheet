@@ -3,7 +3,7 @@
 ## Week 02 Task - Calculate somebody's Body Mass Index (BMI)
 
 ### References and research Done 
-Script name is bmi.py
+Script name is **bmi.py**
  
 The following site describes how to use the round function in python
 https://www.tutorialspoint.com/How-to-round-down-to-2-decimals-a-float-using-Python
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=
 ## Week 03 Task - Program that Outputs Every Second Letter In Reverse Order
 
 ### References and research Done 
-Script name is : secondstring.py
+Script name is : **secondstring.py**
 
 Research on how to reverse a string in the links below :
 
@@ -29,7 +29,7 @@ https://www.w3schools.com/python/python_howto_reverse_string.asp
 ## Week 04 Task - Program on the Collatz Conjecture
 
 ### References and research Done 
-Script name is : collatz.py
+Script name is : **collatz.py**
 
 
 ## Week 05 Task - Program that Outputs whether Today is a Weekday Or Not
