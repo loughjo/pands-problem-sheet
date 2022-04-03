@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=
 ### References and research Done 
 Script name is : secondstring.py
 
-Research on how to reverse a string 
+Research on how to reverse a string in the links below
 https://stackoverflow.com/questions/58886774/python-how-do-i-reverse-every-other-string-in-a-list
 https://www.w3schools.com/python/python_howto_reverse_string.asp
 
@@ -36,6 +36,8 @@ Script name is : collatz.py
 ### References and research Done 
 Script name is : weekday.py
 
+https://www.w3schools.com/python/python_datetime.asp
+https://stackoverflow.com/questions/1907196/how-do-i-check-if-its-monday-to-friday-and-the-time-is-between-10-am-to-3-pm
 
 ## Week 06 Task - Program That Approximates the Square Root
 

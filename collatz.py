@@ -4,8 +4,11 @@
 # Asks the user to enter a positive integer and converts the String input to and integer and assigns it to a variable called number
 number = int(input('Please enter a positive integer : '))
 
+# Create an empty List to track the number sequence
 collatzSequence = []
 collatzSequence.append(number)
+
+# While loop which keeps looping until the variable nummber goes to one.
 while number != 1:
     if number % 2 == 0:
         number = number // 2

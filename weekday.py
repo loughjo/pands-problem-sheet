@@ -1,34 +1,19 @@
-#
-# Author John Loughnane
+# A program that ouputs whether or not today is a weekday
+# Author : John Loughnane
 
+# https://www.w3schools.com/python/python_datetime.asp
+# https://stackoverflow.com/questions/1907196/how-do-i-check-if-its-monday-to-friday-and-the-time-is-between-10-am-to-3-pm
+# To find the current date and time we need to import the datetime module datetime
 from datetime import datetime
 
 
-#day = datetime.today()
-#print(day)
-dayOfWeek = ""
+# Use the datetime.today() module to display the current time in the format '2022-03-20 21:39:06.496691'
+# assign this value to variable weekday
+weekday = datetime.today()
+print(type(weekday))
 
-#weekday = datetime.weekday(datetime.today())
-weekday = 0
-#print(weekday)
-listWeek = [[0, "Monday"], [1, "Tuesday"], [2, "Wednesday"], [3, "Thursday"], [4, "Friday"], [5, "Saturday"], [6, "Sunday"], ]
-#if weekday == 2:
-#    print("Today is Wednesday which is a week day")
-#else:
-#    print("Good day")
-
-#print(listWeek[2])
-
-for i in listWeek:
-    for number in i:
-        if number == weekday and number <= 4:
-            #print(i[1])
-            dayOfWeek = "Yes, unfortunately today is a weekday."
-            print(dayOfWeek, )
-        elif number == weekday and number >= 5: 
-            dayOfWeek = "It is the weekend, yay!"
-            print(dayOfWeek)
-        #else:
-         #   print("There is something wrong with teh program")
-
-#print(dayOfWeek)       
+# the value is assigned to the variable 'weekday' where weekday.isoweekday() displays the day of teh week as an integer
+if weekday.isoweekday() in range(1, 6):
+    print("Yes, unfortunately today is a weekday.")
+else:
+    print("It is the weekend, yay!")
