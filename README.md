@@ -25,7 +25,7 @@ Script name is : **secondstring.py**
 
 Description of Program : A program that asks a user to input a string and outputs every second letter in reverse order.
 
-Research on how to reverse a string in the links below :
+Research on how to reverse a string in the links below stackoverflow and w3schools links:
 
 https://stackoverflow.com/questions/58886774/python-how-do-i-reverse-every-other-string-in-a-list
 https://www.w3schools.com/python/python_howto_reverse_string.asp
@@ -70,3 +70,6 @@ Description of Program : a program that reads in a text file and outputs the num
 Script name is : **plottask.py**
 
 Description of Program : A program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+
+https://www.adamsmith.haus/python/answers/how-to-make-multiple-plots-on-the-same-figure-in-matplotlib-in-python
+https://stackoverflow.com/questions/7125009/how-to-change-legend-size-with-matplotlib-pyplot

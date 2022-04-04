@@ -10,9 +10,11 @@ with open(sys.argv[1]) as filename:
     for line in filename:
         string_name = ""
         string_name = line
+        print("sentence "+string_name)
         for char in string_name:
             if char == "e":
                 count += 1
+                print("count " + char)
             else:
                 not_e += 1
 

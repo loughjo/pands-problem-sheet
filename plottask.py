@@ -1,5 +1,6 @@
-# https://www.adamsmith.haus/python/answers/how-to-make-multiple-plots-on-the-same-figure-in-matplotlib-in-python
-#https://stackoverflow.com/questions/7125009/how-to-change-legend-size-with-matplotlib-pyplot
+# A program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+# Author : John Loughnane
+
 from turtle import color
 import numpy as np
 import matplotlib.pyplot as plt
