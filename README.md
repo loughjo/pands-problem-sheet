@@ -25,7 +25,8 @@ Script name is : **secondstring.py**
 
 Description of Program : A program that asks a user to input a string and outputs every second letter in reverse order.
 
-Research on how to reverse a string in the links below stackoverflow and w3schools links:
+The main research was how to output every second letter in reverse order.
+I found the stackoverflow and w3schools links below helpful:
 
 https://stackoverflow.com/questions/58886774/python-how-do-i-reverse-every-other-string-in-a-list
 https://www.w3schools.com/python/python_howto_reverse_string.asp
@@ -44,8 +45,12 @@ Script name is : **weekday.py**
 
 Description of Program : A program that outputs whether or not today is a weekday.
 
+The main research was how to get the current date and I imported the datetime module in order to get that.
+I found the isoweekday() function which returns an integer value which corresponds to teh day of the week.
+
 https://www.w3schools.com/python/python_datetime.asp
 https://stackoverflow.com/questions/1907196/how-do-i-check-if-its-monday-to-friday-and-the-time-is-between-10-am-to-3-pm
+https://pythontic.com/datetime/date/isoweekday
 
 ## Week 06 Task - Program That Approximates the Square Root
 
