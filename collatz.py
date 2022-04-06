@@ -11,11 +11,11 @@ number = int(input('Please enter a positive integer : '))
 collatzSequence = []
 collatzSequence.append(number)
 
-# While loop which keeps looping until the variable nummber goes to one.
+# While loop which keeps looping until the variable nummber goes to 1.
 # In the IF/ELSE statement we check if the number is ODD or EVEN and apply the relevant formula.
 # We check if the number is ODD or EVEN by using the modulus operator and if there is no remainder we divide the number by 2 and append to List
 # In the ELIF we check if there is a remainder and if there is a remainder we multiply the number by 3 and add 1, then we append to the List  
-# The While loop will keep looping while number != 1 but once nummber == 1 the condiftion will be FALSE and the while loop will stop.  
+# The While loop will keep looping while number != 1 but once nummber == 1 the condition will be FALSE and the while loop will stop.  
 while number != 1:
     if number % 2 == 0:
         number = number // 2
@@ -27,7 +27,7 @@ while number != 1:
 # We assign an empty STRING to collatzOutput
 # We need to print out the sequence of numbers so we iterate over the collatzSequence List
 # and we append it to the STRING collatzOutput.
-# We use the str() function to convert the integer num to a sting and we add a space with " "
+# We use the str() function to convert the integer num to a string and we add a space with " "
 collatzOutput = ""
 for num in collatzSequence:
     collatzOutput += str(num) + " " 

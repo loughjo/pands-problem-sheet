@@ -38,6 +38,17 @@ Script name is : **collatz.py**
 
 Description of Program : A program that asks the user to input any positive integer and outputs the successive values of the following calculation.
 
+Used the following collatz calculator to check my code was calculating the collatz sequence correctly
+https://www.dcode.fr/collatz-conjecture
+
+Explanation of collatz conjecture and sequence
+https://www.cantorsparadise.com/the-collatz-conjecture-beauty-or-conundrum-of-mathematics-
+
+Reviewed lecture and tutorials for week 4 to understand about Lists and if/elif statement
+
+Rewviewed the while loop from realpython
+https://realpython.com/python-while-loop/
+
 ## Week 05 Task - Program that Outputs whether Today is a Weekday Or Not
 
 ### References and Research Done 
