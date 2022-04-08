@@ -103,7 +103,7 @@ Description of Program : A program called plottask.py that displays a plot of th
 Article about multiple plots on the same figure.<br />
 https://www.adamsmith.haus/python/answers/how-to-make-multiple-plots-on-the-same-figure-in-matplotlib-in-python
 
-Add a Legend to a .<br />
+Add a Legend to the plot .<br />
 https://stackoverflow.com/questions/7125009/how-to-change-legend-size-with-matplotlib-pyplot
 
 
