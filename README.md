@@ -57,7 +57,7 @@ Script name is : **weekday.py**
 Description of Program : A program that outputs whether or not today is a weekday.
 
 The main research was how to get the current date and I imported the datetime module in order to get that.
-I found the isoweekday() function which returns an integer value which corresponds to teh day of the week.
+I found the isoweekday() function which returns an integer value which corresponds to the day of the week.
 
 https://www.w3schools.com/python/python_datetime.asp
 https://stackoverflow.com/questions/1907196/how-do-i-check-if-its-monday-to-friday-and-the-time-is-between-10-am-to-3-pm
@@ -70,6 +70,9 @@ Script name is : **squareroot.py**
 
 Description of Program : A program that takes a positive floating-point number as input and outputs an approximation of its square root.
 
+I used the following website which explained the formula with an example of newton-raphson-method.<br />
+https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
+
 ## Week 07 Task - Program That Reads a Text File and Outputs Number of e's
 
 ### References and Research Done 
@@ -77,10 +80,18 @@ Script name is : **es.py**
 
 Description of Program : a program that reads in a text file and outputs the number of e's it contains.
 
+I checked out teh following w3shools link to see how to use the open() function.<br />
+https://www.w3schools.com/python/ref_func_open.asp
+
+askubuntu.com was useful in how to input the filename moby-dick.txt as an argument in teh commandline.<br />
 https://askubuntu.com/questions/1059579/input-the-filename-in-the-commandline-as-an-argument-in-python
 
-**Assumptions :**
 
+
+**Assumptions :**
+1) I assume that we only need to count lowercase 'e'. 
+   If I were to count Uppercase 'E' I would need => if char == "e" or char == "E":
+2) We just need to print out the count of the letter 'e', no need to print any other text. 
 
 ## Week 08 Task - Displays a Plot Of Functions
 

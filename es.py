@@ -7,14 +7,15 @@ import sys
 with open(sys.argv[1]) as filename:
     count = 0
     not_e = 0
+
+# First iterate over filename and each line is assigned to variable line which will be of type STRING.
+# The variable line is then      
     for line in filename:
         string_name = ""
         string_name = line
-        print("sentence "+string_name)
         for char in string_name:
             if char == "e":
                 count += 1
-                print("count " + char)
             else:
                 not_e += 1
 
